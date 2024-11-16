@@ -1,1 +1,2 @@
 First line added in A
+second line added in B
